@@ -1,12 +1,12 @@
 {
-    "name": "danielboendergaard/phantom-pdf",
-    "description": "A Package for generating PDF files using PhantomJS",
+    "name": "TrungVuAnt/phantom-pdf",
+    "description": "A Package for generating PDF files using PhantomJS, which fork from danielboendergaard/phantom-pdf",
     "keywords": ["pdf", "html", "laravel"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Daniel Bøndergaard",
-            "email": "danielboendergaard@gmail.com"
+            "name": "Trung Vu",
+            "email": "trungvu@antking.com.vn"
         }
     ],
     "require": {
