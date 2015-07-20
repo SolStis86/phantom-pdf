@@ -1,5 +1,5 @@
 {
-    "name": "TrungVuAnt/phantom-pdf",
+    "name": "trungvuant/phantom-pdf",
     "description": "A Package for generating PDF files using PhantomJS, which fork from danielboendergaard/phantom-pdf",
     "keywords": ["pdf", "html", "laravel"],
     "license": "MIT",
